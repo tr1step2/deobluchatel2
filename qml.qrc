@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">source/qml/main.qml</file>
+        <file alias="Deobl.qml">source/qml/Deobl.qml</file>
+        <file alias="CButton.qml">source/qml/CButton.qml</file>
+        <file alias="RoundButton.qml">source/qml/RoundButton.qml</file>
+        <file alias="RoundTimer.qml">source/qml/RoundTimer.qml</file>
+        
+        <file alias="StartScreen.qml">source/qml/StartScreen.qml</file>
+        <file alias="MainScreen.qml">source/qml/MainScreen.qml</file>
+        <file alias="SettingsScreen.qml">source/qml/SettingsScreen.qml</file>
+        <file alias="AboutScreen.qml">source/qml/AboutScreen.qml</file>
+        
+        <file alias="Picker.png">source/images/Picker.png</file>
+    </qresource>
+</RCC>
